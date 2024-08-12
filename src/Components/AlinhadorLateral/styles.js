@@ -1,5 +1,3 @@
-import styled from "styled-components";
-
-export const Alinhador = styled.div`
-padding:  0 64px;
+export const WrarperStyled = styled.div`
+  padding: 0 67.5px
 `

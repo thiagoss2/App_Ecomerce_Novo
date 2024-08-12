@@ -47,5 +47,22 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+body {
+	color: aliceblue;
+	font-family: sans-serif;
+}
+
+li {
+ list-style-type: none;
+}
+h1 {
+	color: black;
+}
+
+p{
+	color: black;
+};
+;
+
 }
 `
